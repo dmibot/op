@@ -1,9 +1,3 @@
-/**
-  * Edit features in './message/msg.js'
-  * Contact me on WhatsApp wa.me/6281319944917
-  * Follow : https://github.com/rtwone
-  * Follow : https://github.com/GetSya
-*/
 
 "use strict";
 const {
@@ -39,7 +33,7 @@ function title() {
 		width: 80,
 		whitespaceBreak: false
 	})))
-	console.log(chalk.yellow(`\n                        ${chalk.yellow('[ Powered By Iyan & Arasya ]')}\n\n${chalk.red('Jojo-Bot')} : ${chalk.white('WhatsApp Bot Multi Device')}\n${chalk.red('Follow Insta Dev')} : ${chalk.white('@sofunsyabi.jpg')}\n${chalk.red('Message Me On WhatsApp')} : ${chalk.white('+62 813-1994-4917')}\n${chalk.red('Donate')} : ${chalk.white('088213292687 ( Gopay/Pulsa )')}\n`))
+	console.log(chalk.yellow(`\n                        ${chalk.yellow('[ Powered By Opux ]')}\n\n${chalk.red('op-bot')} : ${chalk.white('WhatsApp Bot Multi Device')}\n${chalk.red('Follow Insta Dev')} : ${chalk.white('@sofunsyabi.jpg')}\n${chalk.red('Message Me On WhatsApp')} : ${chalk.white('+62 813-1994-4917')}\n${chalk.red('Donate')} : ${chalk.white('088213292687 ( Gopay/Pulsa )')}\n`))
 }
 
 /**
